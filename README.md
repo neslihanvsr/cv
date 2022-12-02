@@ -1,1 +1,3 @@
-I create my CV using only HTML and host it on Github. 
+CV preparation using HTML
+
+I created my CV using HTML and hosted it on Github. 
